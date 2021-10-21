@@ -1,15 +1,4 @@
-
-
-// $('size-selector_size').on('click', function(){
-//     $('size-selector_size').removeClass('size-selector_size:active');
-//     $(this).addClass('size-selector_size:active');
-// });
-
-
-
-
 /////////////////////  M O D A L  ///////////////////// 
-
 
 // Get DOM Elements
 const modal = document.querySelector('#my-modal');
@@ -37,3 +26,5 @@ function outsideClick(e) {
     modal.style.display = 'none';
   }
 }
+
+/////////////////////  M O D A L  ///////////////////// 
